@@ -1,0 +1,9 @@
+---
+title: "Development of Automatically Controlled Facial Osteotomy Robot using Force Information - For Safe Le Fort I Osteotomy -"
+collection: publications
+category: conferences
+date: 2023-06-19
+venue: "2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE)"
+citation: 'K. Niwa, K. Yane, Y. Kido, T. Kitamura, and T. Nozaki, "Development of Automatically Controlled Facial Osteotomy Robot using Force Information - For Safe Le Fort I Osteotomy -," 2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE), pp. 1-6, 2023.'
+---
+The development of automatically controlled medical robots (ACMR) has certain limitations. Due to their rigidity, if they are used in surgery, it would be extremely difficult to protect the patient’s soft blood vessels and nerves. Hence, ACMR have not been put into practical use. The main purpose of this research is to address the limitations in order to develop the world’s first ACMR that has a successful practical application within surgery. The first surgical procedure we aim to apply the ACMR to is Le Fort I osteotomy in maxillofacial surgery. While performing Le Fort I osteotomy, the robots must avoid damage to the descending palatine artery, which can cause fatal bleeding. We succeeded in automatically stopping the osteotomy immediately before the artery without the need to acquire model numerical information in advance, that is, with a model-free detection. The proposed method for auto-stopping is to identify the osteotomy reaction force obtained by the reaction force observer using the concept of the Z-score.
