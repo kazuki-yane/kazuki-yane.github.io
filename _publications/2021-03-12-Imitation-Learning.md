@@ -11,7 +11,7 @@ venue: "The 9th IEEJ International Workshop on Sensing, Actuation, Motion Contro
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-In imitation learning, there is a problem that learning results and accuracy depend on the proficiency of human actions.
+<!-- In imitation learning, there is a problem that learning results and accuracy depend on the proficiency of human actions.
 This paper proposes a system that learns from human motion, estimates the importance of position and force
 control to achieve the motion objective, and applies it to hybrid control. The effectiveness of the estimating the importance
-of position control and force control, which is a part of the proposed method, is verified.
+of position control and force control, which is a part of the proposed method, is verified. -->
